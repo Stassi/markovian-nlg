@@ -1,6 +1,6 @@
 {
   "name": "markovian-nlg",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Natural language generation and processing.",
   "keywords": [
     "computational linguistics",
