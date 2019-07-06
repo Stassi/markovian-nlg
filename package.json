@@ -1,0 +1,36 @@
+{
+  "name": "markovian-nlg",
+  "version": "0.0.1",
+  "description": "Natural language generation and processing.",
+  "keywords": [
+    "computational linguistics",
+    "markov chain",
+    "markov model",
+    "natural language generation",
+    "natural language processing",
+    "nlg",
+    "nlp"
+  ],
+  "license": "MIT",
+  "author": "Andreas Stassivik <andreas@stassi.net> (https://github.com/Stassi)",
+  "files": [
+    "/lib"
+  ],
+  "main": "./lib/markovian.umd.js",
+  "module": "./lib/markovian.esm.js",
+  "repository": "github:Stassi/markovian-nlg",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">=8.16.0",
+    "npm": ">=6.4.1"
+  },
+  "browserslist": [
+    "defaults",
+    "node 8",
+    "node 10",
+    "node 11",
+    "node 12"
+  ]
+}
