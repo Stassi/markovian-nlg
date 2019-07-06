@@ -5,6 +5,7 @@ node_js:
   - 10
   - 11
   - 12
+  - node
 
 before_deploy: npm run prepublishOnly
 deploy:
